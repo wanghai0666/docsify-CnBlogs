@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="639" height="180" />
+<img src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="60%" height="35%" />
 </p>
 
 <h1 align="center">用户手册</h1>
