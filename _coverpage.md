@@ -1,5 +1,5 @@
 <p align="center">
-<img   id="LTTP" src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="60%" onload='this.height=document.getElementById("LTTP").scrollWidth*0.75+"px"' />
+<img src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="639px" height="180px" />
 </p>
 
 <h1 align="center">用户手册</h1>
