@@ -17,6 +17,12 @@
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
+      footer: {
+            copy: '静雅斋',
+            auth: '王海',
+            pre: '<hr>',
+            style:'text-align: center;'
+        },
       name: 'docsify-demo',
       repo: 'https://github.com/Snailclimb/JavaGuide-Interview',
       maxLevel: 5,//最大支持渲染的标题层级
@@ -36,17 +42,8 @@
       },
       plugins: [
         EditOnGithubPlugin.create('https://github.com/wanghai0666/docsify-CnBlogs/blob/master/')
-      ],
-      footer: {
-            copy: '静雅斋',
-            auth: '王海',
-            pre: '<hr>',
-            style:'text-align: center;'
-        },
-    }
-    
-   
-    
+      ],      
+    }    
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <!--Java代码高亮-->
@@ -59,9 +56,7 @@
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
   <!-- 字数统计 -->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-  
-  
-  
+    
 </body>
 
 </html>
