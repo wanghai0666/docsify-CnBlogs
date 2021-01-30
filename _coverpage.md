@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://github.com/wanghai0666/docsify-CnBlogs/tree/master/Pic/992978-20210103123026125-555148818.png" width="639px" height="180px" />
+<img src="https://github.com/wanghai0666/docsify-CnBlogs/raw/master/Pic/992978-20210103123026125-555148818.png" width="639px" height="180px" />
 </p>
 
 <h1 align="center">用户手册</h1>
