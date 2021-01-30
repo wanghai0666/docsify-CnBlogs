@@ -1,6 +1,6 @@
-<p align="center">  
-<img src="https://github.com/wanghai0666/docsify-CnBlogs/raw/master/Pic/992978-20210103123026125-555148818.png" width="639px" height="180px" />
-</p>
+<center>  
+<img src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="639px" height="180px" />
+</center>
 
 <h1 align="center">用户手册</h1>
 
