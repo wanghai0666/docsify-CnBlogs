@@ -1,5 +1,5 @@
 
-<img  src="https://github.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/992978-20210118214725059-1705326463.png" style="width:30% height:30% " />
+<img  src="https://github.com/wanghai0666/docsify-CnBlogs/raw/master/Pic/992978-20210118214725059-1705326463.png" style="width:30% height:30% " />
 
 * [必修模块目录](./docs/A-1必修模块目录.md)
  
