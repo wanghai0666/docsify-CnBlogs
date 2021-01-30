@@ -1,8 +1,5 @@
-<p align="center">
-  
- https://github.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/992978-20210103123026125-555148818.png 
-  
-<img src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="639px" height="180px" />
+<p align="center">  
+<img src="https://github.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/992978-20210103123026125-555148818.png" width="639px" height="180px" />
 </p>
 
 <h1 align="center">用户手册</h1>
