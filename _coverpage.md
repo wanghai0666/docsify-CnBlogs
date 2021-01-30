@@ -1,6 +1,6 @@
-<center>  
+<p  align="center">  
 <img src="https://img2020.cnblogs.com/blog/992978/202101/992978-20210118214725059-1705326463.png" width="639px" height="180px" />
-</center>
+</p>
 
 <h1 align="center">用户手册</h1>
 
