@@ -2,6 +2,8 @@
 <img src="https://github.com/wanghai0666/docsify-CnBlogs/blob/master/_media/Cnblogs-Logo.svg" width="639px" height="180px" />
 </p>
 
+![logo](https://s4.aconvert.com/convert/p3r68-cdx67/an7mp-cl4y2.svg)
+
 <h1 align="center">用户手册</h1>
 
 
