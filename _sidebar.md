@@ -1,4 +1,4 @@
-![logo](https://s4.aconvert.com/convert/p3r68-cdx67/akcdn-w8ega.svg)
+![logo](https://s4.aconvert.com/convert/p3r68-cdx67/afz7i-tdyn4.svg)
 
 * [必修模块目录](./docs/A-1必修模块目录.md)
  
