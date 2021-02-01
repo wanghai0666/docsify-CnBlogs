@@ -45,6 +45,20 @@
       alias: { // 定义路由别名，可以更自由的定义路由规则。 支持正则
         '/.*/_sidebar.md': '/_sidebar.md'//防止意外回退
       },
+      plugins: [
+    function(hook) {
+      var footer = [
+        '<hr/>',
+        '<footer>',
+        '<span><a href="https://github.com/QingWei-Li">cinwell</a> &copy;2017.</span>',
+        '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+        '</footer>'
+      ].join('');
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]     
       count:{
         countable:true,
         fontsize:'0.9em',
