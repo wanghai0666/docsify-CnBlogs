@@ -64,13 +64,10 @@
       plugins: [
         EditOnGithubPlugin.create('https://github.com/wanghai0666/docsify-CnBlogs/blob/master/')
       ],
-      footer: {
-            copy: '静雅斋',
-            auth: '王海',
-            pre: '<hr>',
-            style:'text-align: center;'
-        },
-      }    
+      } 
+    let footer = document.createElement("footer");
+        footer.innerHTML = '<footer style="text-align: center;"><hr />© 2019  <a target="_blank" href="http://www.beian.miit.gov.cn/">xxxxx备案信息</a> | <a target="_blank" href="http://www.12377.cn/">网上有害信息举报区</a>. All Rights Reserved  - 如有侵权请联系ts@js.com</footer>';
+        _main.appendChild(footer); 
   </script>
   <!-- CDN files for docsify-katex -->
   <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
