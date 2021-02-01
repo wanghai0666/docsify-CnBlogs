@@ -1,5 +1,5 @@
 <p  align="center">  
-![logo](https://s4.aconvert.com/convert/p3r68-cdx67/an7mp-cl4y2.svg)
+<img src="https://s4.aconvert.com/convert/p3r68-cdx67/an7mp-cl4y2.svg" >
 </p>
 
 <h1 align="center">用户手册</h1>
