@@ -1,12 +1,4 @@
-<p align="center">  
-
-<img  src="https://img2020.cnblogs.com/blog/992978/202102/992978-20210202111835526-202666626.png"  width="639px"  height="180px" />
-
-</p>
-
-
 ![cnblogs-logo](https://img2020.cnblogs.com/blog/992978/202102/992978-20210202111835526-202666626.png)
-
 
 <h1 align="center">使用目录</h1>
 
