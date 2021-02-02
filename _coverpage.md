@@ -1,5 +1,7 @@
 <p  align="center">  
-<svg xmlns="https://gitee.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/Cnblogs-Logo01.svg" />  </svg>
+
+<embed src="https://gitee.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/Cnblogs-Logo01.svg" type="image/svg+xml" />
+
 </p>
 
 <h1 align="center">使用目录</h1>
