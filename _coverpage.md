@@ -1,5 +1,5 @@
 <p  align="center">  
-<img src="https://gitee.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/Cnblogs-Logo01.svg" >
+<img src="https://github.com/wanghai0666/docsify-CnBlogs/blob/master/_media/Cnblogs-Logo01.svg" >
 </p>
 
 <h1 align="center">使用目录</h1>
