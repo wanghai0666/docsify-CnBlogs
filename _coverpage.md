@@ -1,6 +1,6 @@
 <p  align="center">  
 
-<embed src="https://gitee.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/Cnblogs-Logo01.svg" type="image/svg+xml" />
+<img src="https://img2020.cnblogs.com/blog/992978/202102/992978-20210202100503113-166795758.png"  />
 
 </p>
 
