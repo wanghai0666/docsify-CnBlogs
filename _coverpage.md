@@ -1,11 +1,5 @@
 <p  align="center">  
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
-       width="200px" height="200px">
-    <rect x="0" y="0" width="100%" height="100%"
-          fill="none" stroke="black"/>
-    <circle cx="100" cy="100" r="50"
-            style="stroke: black; fill: red;"/>
-  </svg>
+<svg xmlns="https://gitee.com/wanghai0666/docsify-CnBlogs/blob/master/Pic/Cnblogs-Logo01.svg" />  </svg>
 </p>
 
 <h1 align="center">使用目录</h1>
