@@ -1,4 +1,4 @@
-<center><img   src="https://img2020.cnblogs.com/blog/992978/202102/992978-20210203175330299-1392876691.png" /><center>
+<img style="text-align:center"  src="https://img2020.cnblogs.com/blog/992978/202102/992978-20210203175330299-1392876691.png" />
 
 * [必修模块目录](./docs/A-1必修模块目录.md)
  
