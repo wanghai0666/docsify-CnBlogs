@@ -1,4 +1,4 @@
-<img src="https://img2020.cnblogs.com/blog/992978/202102/992978-20210204072155275-305923659.png" />
+![SideBar-Logo](https://img2020.cnblogs.com/blog/992978/202102/992978-20210204072155275-305923659.png)
 
 
 * [必修模块目录](./docs/A-1必修模块目录.md)
