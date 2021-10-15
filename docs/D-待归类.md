@@ -37,7 +37,7 @@
 
 * [思维训练|一道初中动态问题的初高中解法对照](https://www.cnblogs.com/wanghai0666/p/14179341.html)
 
-* [研讨|互为逆否命题的两个命题的真假证明](https://www.cnblogs.com/wanghai0666/p/14055978.html)
+
 
 * [数学变换的多样性](https://www.cnblogs.com/wanghai0666/p/14055532.html)
 
