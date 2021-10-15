@@ -35,19 +35,28 @@
 
 * [数学抽象](https://www.cnblogs.com/wanghai0666/p/14420299.html)
 
-
-* [数的分类](https://www.cnblogs.com/wanghai0666/p/13429595.html)	
 * [思维训练|一道初中动态问题的初高中解法对照](https://www.cnblogs.com/wanghai0666/p/14179341.html)
-* [研讨|互为逆否命题的两个命题的真假证明](https://www.cnblogs.com/wanghai0666/p/14055978.html)
-* [数学变换的多样性](https://www.cnblogs.com/wanghai0666/p/14055532.html)
-* [探究|等面积法及其应用](https://www.cnblogs.com/wanghai0666/p/13398459.html)	
-* [奇怪|说好的求最大值变成了求最小值](https://www.cnblogs.com/wanghai0666/p/13253416.html)	
-* [线性表示](https://www.cnblogs.com/wanghai0666/p/13217645.html)	
-* [知几求几型的应用总结](https://www.cnblogs.com/wanghai0666/p/13045597.html)	
-* [设元的技巧](https://www.cnblogs.com/wanghai0666/p/13788404.html)	
-* [争鸣|一道有限无限思想题目的思辨](https://www.cnblogs.com/wanghai0666/p/13039908.html)	
-* [题组|数学思维的层次递进](https://www.cnblogs.com/wanghai0666/p/12989251.html)	
-* [例说思维的发散性](https://www.cnblogs.com/wanghai0666/p/12971994.html)	
-* [视角的转换](https://www.cnblogs.com/wanghai0666/p/12905783.html)	
-* [常数代换法](https://www.cnblogs.com/wanghai0666/p/12637470.html)	
 
+* [研讨|互为逆否命题的两个命题的真假证明](https://www.cnblogs.com/wanghai0666/p/14055978.html)
+
+* [数学变换的多样性](https://www.cnblogs.com/wanghai0666/p/14055532.html)
+
+* [探究|等面积法及其应用](https://www.cnblogs.com/wanghai0666/p/13398459.html)	
+
+* [奇怪|说好的求最大值变成了求最小值](https://www.cnblogs.com/wanghai0666/p/13253416.html)	
+
+* [线性表示](https://www.cnblogs.com/wanghai0666/p/13217645.html)	
+
+* [知几求几型的应用总结](https://www.cnblogs.com/wanghai0666/p/13045597.html)	
+
+* [设元的技巧](https://www.cnblogs.com/wanghai0666/p/13788404.html)	
+
+* [争鸣|一道有限无限思想题目的思辨](https://www.cnblogs.com/wanghai0666/p/13039908.html)	
+
+* [题组|数学思维的层次递进](https://www.cnblogs.com/wanghai0666/p/12989251.html)	
+
+* [例说思维的发散性](https://www.cnblogs.com/wanghai0666/p/12971994.html)	
+
+* [视角的转换](https://www.cnblogs.com/wanghai0666/p/12905783.html)	
+
+* [常数代换法](https://www.cnblogs.com/wanghai0666/p/12637470.html)	
