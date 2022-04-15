@@ -1,4 +1,4 @@
-● <i class="fa fa-hand-o-up"></i> [必修模块目录](./docs/A-1必修模块目录.md)
+●[必修模块目录](./docs/A-1必修模块目录.md)<i class="fa fa-hand-o-up"></i>
  
    ●  [第01章 集合](./docs/A-01集合.md)  
     
