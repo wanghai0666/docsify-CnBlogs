@@ -37,8 +37,6 @@
 
 * [思维训练|一道初中动态问题的初高中解法对照](https://www.cnblogs.com/wanghai0666/p/14179341.html)
 
-
-
 * [数学变换的多样性](https://www.cnblogs.com/wanghai0666/p/14055532.html)
 
 * [探究|等面积法及其应用](https://www.cnblogs.com/wanghai0666/p/13398459.html)	
