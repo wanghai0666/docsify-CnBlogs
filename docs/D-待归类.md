@@ -1,14 +1,3 @@
-
-## 考点关联表
-
-* [高考数学考点关联表[Ⅳ]](https://www.cnblogs.com/wanghai0666/p/14747322.html)
-
-* [高考数学考点关联表[Ⅲ]](https://www.cnblogs.com/wanghai0666/p/14747214.html)
-
-* [高考数学考点关联表[Ⅱ]](https://www.cnblogs.com/wanghai0666/p/14745507.html)
-
-* [高考数学考点关联表[Ⅰ]](https://www.cnblogs.com/wanghai0666/p/14744855.html)
-
 ##  其他
 
 * [数学|基本活动经验](https://www.cnblogs.com/wanghai0666/p/15188678.html)
