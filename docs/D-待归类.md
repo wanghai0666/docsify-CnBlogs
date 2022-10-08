@@ -64,13 +64,12 @@
 
 * [常用刻画距离[长度]的几种途径](https://www.cnblogs.com/wanghai0666/p/15786820.html)
 
-* [求方差的几个层次](https://www.cnblogs.com/wanghai0666/p/15829325.html)
+
 
 * [从数的角度理解视角转换](https://www.cnblogs.com/wanghai0666/p/15769835.html)
 
 * [极坐标与直角坐标的相互转化](https://www.cnblogs.com/wanghai0666/p/15629219.html)
 
-* [几何视角下的三角形面积最值问题探究|思维养成](https://www.cnblogs.com/wanghai0666/p/15593798.html)
 
 * [图像法引发的思考|学法](https://www.cnblogs.com/wanghai0666/p/16483279.html)
 
