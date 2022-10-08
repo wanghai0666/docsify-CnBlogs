@@ -73,3 +73,5 @@
 * [图像法引发的思考|学法](https://www.cnblogs.com/wanghai0666/p/16483279.html)
 
 * [多项式的四则运算|运算技巧](https://www.cnblogs.com/wanghai0666/p/16494539.html)
+
+* [复习利器|思维导图](https://www.cnblogs.com/wanghai0666/p/16753316.html)
