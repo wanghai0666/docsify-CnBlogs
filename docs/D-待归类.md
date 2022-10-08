@@ -26,7 +26,7 @@
 
 * [思维训练|一道初中动态问题的初高中解法对照](https://www.cnblogs.com/wanghai0666/p/14179341.html)
 
-* [数学变换的多样性](https://www.cnblogs.com/wanghai0666/p/14055532.html)
+
 
 * [奇怪|说好的求最大值变成了求最小值](https://www.cnblogs.com/wanghai0666/p/13253416.html)	
 
@@ -38,11 +38,7 @@
 
 * [争鸣|一道有限无限思想题目的思辨](https://www.cnblogs.com/wanghai0666/p/13039908.html)	
 
-* [题组|数学思维的层次递进](https://www.cnblogs.com/wanghai0666/p/12989251.html)	
 
-* [例说思维的发散性](https://www.cnblogs.com/wanghai0666/p/12971994.html)	
-
-* [视角的转换](https://www.cnblogs.com/wanghai0666/p/12905783.html)	
 
 * [高中数学中需要验证的数学素材](https://www.cnblogs.com/wanghai0666/p/16184699.html)
 
