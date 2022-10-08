@@ -46,7 +46,7 @@
 
 * [高中数学中需要验证的数学素材](https://www.cnblogs.com/wanghai0666/p/16184699.html)
 
-* [三角函数图像解题中横轴选 x 还是 ωx+ϕ](https://www.cnblogs.com/wanghai0666/p/16217577.html)
+
 
 * [二轮复习中用题的特点和应对策略](https://www.cnblogs.com/wanghai0666/p/16082844.html)
 
