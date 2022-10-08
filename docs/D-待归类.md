@@ -22,7 +22,7 @@
 
 * [勾股定理相关及引申](https://www.cnblogs.com/wanghai0666/p/14329269.html)
 
-* [数学抽象](https://www.cnblogs.com/wanghai0666/p/14420299.html)
+
 
 * [思维训练|一道初中动态问题的初高中解法对照](https://www.cnblogs.com/wanghai0666/p/14179341.html)
 
