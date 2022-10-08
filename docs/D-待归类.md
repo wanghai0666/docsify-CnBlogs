@@ -8,8 +8,6 @@
 
 * [恒等变形蕴含的思维层次](https://www.cnblogs.com/wanghai0666/p/14688641.html)
 
-
-
 * [备考反思|2021年全国卷乙卷理科数学解析版](https://www.cnblogs.com/wanghai0666/p/14879787.html)
 
 * [备考反思|2021年全国卷乙卷文科数学解析版](https://www.cnblogs.com/wanghai0666/p/14877596.html)
@@ -28,8 +26,6 @@
 
 * [数学变换的多样性](https://www.cnblogs.com/wanghai0666/p/14055532.html)
 
-	
-
 * [奇怪|说好的求最大值变成了求最小值](https://www.cnblogs.com/wanghai0666/p/13253416.html)	
 
 * [线性表示](https://www.cnblogs.com/wanghai0666/p/13217645.html)	
@@ -46,13 +42,9 @@
 
 * [视角的转换](https://www.cnblogs.com/wanghai0666/p/12905783.html)	
 
-	
-
 * [高中数学中需要验证的数学素材](https://www.cnblogs.com/wanghai0666/p/16184699.html)
 
 * [三角函数图像解题中横轴选 x 还是 ωx+ϕ](https://www.cnblogs.com/wanghai0666/p/16217577.html)
-
-
 
 * [二轮复习中用题的特点和应对策略](https://www.cnblogs.com/wanghai0666/p/16082844.html)
 
@@ -77,3 +69,5 @@
 * [极坐标与直角坐标的相互转化](https://www.cnblogs.com/wanghai0666/p/15629219.html)
 
 * [几何视角下的三角形面积最值问题探究|思维养成](https://www.cnblogs.com/wanghai0666/p/15593798.html)
+
+* [图像法引发的思考|学法](https://www.cnblogs.com/wanghai0666/p/16483279.html)
