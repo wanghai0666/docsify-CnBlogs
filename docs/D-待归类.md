@@ -1,4 +1,6 @@
-##  其他
+##  待归类内容
+
+:writing_hand:等有时间和空闲，再静心整理归类。
 
 * [数学|基本活动经验](https://www.cnblogs.com/wanghai0666/p/15188678.html)
 
