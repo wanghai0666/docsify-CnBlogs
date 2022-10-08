@@ -18,7 +18,7 @@
 
 * [新题型|结构不良题](https://www.cnblogs.com/wanghai0666/p/14415075.html)
 
-* [恒等变形的是与非](https://www.cnblogs.com/wanghai0666/p/14365925.html)
+
 
 * [勾股定理相关及引申](https://www.cnblogs.com/wanghai0666/p/14329269.html)
 
@@ -62,7 +62,7 @@
 
 
 
-* [从数的角度理解视角转换](https://www.cnblogs.com/wanghai0666/p/15769835.html)
+
 
 * [极坐标与直角坐标的相互转化](https://www.cnblogs.com/wanghai0666/p/15629219.html)
 
