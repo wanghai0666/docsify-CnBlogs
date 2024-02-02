@@ -2,6 +2,8 @@
 
 :writing_hand:  等有时间和空闲，再静心整理归类。
 
+* [数学应用题中的专业术语](https://www.cnblogs.com/wanghai0666/p/17829925.html)
+
 * [数学|基本活动经验](https://www.cnblogs.com/wanghai0666/p/15188678.html)
 
 * [双链笔记测试](https://www.cnblogs.com/wanghai0666/p/15180542.html)
