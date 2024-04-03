@@ -59,6 +59,10 @@
       alias: { // 定义路由别名，可以更自由的定义路由规则。 支持正则
         '/.*/_sidebar.md': '/_sidebar.md'//防止意外回退
       },
+     Valine: {
+        appId: 'xtWvKxPCKCryBtxnu2UJDAQQ-gzGzoHsz',
+        appKey: 'qeYz7ccZCry5eWrhHk8kQHX3',
+     },
      count:{
         countable:true,
         fontsize:'0.9em',
@@ -103,7 +107,10 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
     <script src=https://cdn.jsdelivr.net/npm/docsify@4.12.2/lib/docsify.min.js></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.js"></script>
-    <!--Java代码高亮-->
+   <!--Valine无后端评论系统--> 
+    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
+  <!--Java代码高亮-->
   <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
   <!--全文搜索,直接用官方提供的无法生效-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/plugins/search.min.js"></script>
