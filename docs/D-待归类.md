@@ -22,15 +22,9 @@
 
 * [新题型|结构不良题](https://www.cnblogs.com/wanghai0666/p/14415075.html)
 
-
-
 * [勾股定理相关及引申](https://www.cnblogs.com/wanghai0666/p/14329269.html)
 
-
-
 * [思维训练|一道初中动态问题的初高中解法对照](https://www.cnblogs.com/wanghai0666/p/14179341.html)
-
-
 
 * [奇怪|说好的求最大值变成了求最小值](https://www.cnblogs.com/wanghai0666/p/13253416.html)	
 
@@ -42,11 +36,7 @@
 
 * [争鸣|一道有限无限思想题目的思辨](https://www.cnblogs.com/wanghai0666/p/13039908.html)	
 
-
-
 * [高中数学中需要验证的数学素材](https://www.cnblogs.com/wanghai0666/p/16184699.html)
-
-
 
 * [二轮复习中用题的特点和应对策略](https://www.cnblogs.com/wanghai0666/p/16082844.html)
 
@@ -64,15 +54,18 @@
 
 * [常用刻画距离[长度]的几种途径](https://www.cnblogs.com/wanghai0666/p/15786820.html)
 
-
-
-
-
 * [极坐标与直角坐标的相互转化](https://www.cnblogs.com/wanghai0666/p/15629219.html)
-
 
 * [图像法引发的思考|学法](https://www.cnblogs.com/wanghai0666/p/16483279.html)
 
 * [多项式的四则运算|运算技巧](https://www.cnblogs.com/wanghai0666/p/16494539.html)
 
 * [复习利器|思维导图](https://www.cnblogs.com/wanghai0666/p/16753316.html)
+
+*  [静雅斋数学感谢众博友](https://www.cnblogs.com/wanghai0666/p/18104993)
+
+*  [AI 助学行](https://www.cnblogs.com/wanghai0666/p/18102812) 
+
+*  [拥抱 AI 时代的宠儿 | 软件推介](https://www.cnblogs.com/wanghai0666/p/18101435) 
+
+
