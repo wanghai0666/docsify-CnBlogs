@@ -68,6 +68,8 @@
 
 *  [拥抱 AI 时代的宠儿 | 软件推介](https://www.cnblogs.com/wanghai0666/p/18101435)
 
+*  [新旧高考交替期的变化 | 高三复习](https://www.cnblogs.com/wanghai0666/p/18383375)
+
 *  [新旧高考交替期的变化 | 高三复习 - 静雅斋数学 - 博客园](https://www.cnblogs.com/wanghai0666/p/18383375)
 
 
