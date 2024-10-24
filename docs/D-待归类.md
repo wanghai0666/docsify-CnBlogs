@@ -70,7 +70,6 @@
 
 *  [新旧高考交替期的变化 | 高三复习](https://www.cnblogs.com/wanghai0666/p/18383375)
 
-*  [新旧高考交替期的变化 | 高三复习 - 静雅斋数学 - 博客园](https://www.cnblogs.com/wanghai0666/p/18383375)
-
+*  [效率工具类软件分类解析 | To teacher](https://www.cnblogs.com/wanghai0666/p/18475549)
 
 
