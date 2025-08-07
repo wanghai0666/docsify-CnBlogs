@@ -6,7 +6,7 @@
 
 * 博客合集
   * [函数对称性](https://www.cnblogs.com/wanghai0666/collections/22890)
-  * [构造函数](https://www.cnblogs.com/wanghai0666/collections/22912)
+  * [构造函数集](https://www.cnblogs.com/wanghai0666/collections/22912)
   * [导数法合集](https://www.cnblogs.com/wanghai0666/collections/22895)
   * [曲线的切线](https://www.cnblogs.com/wanghai0666/collections/22983)
   * [初高中衔接](https://www.cnblogs.com/wanghai0666/collections/30229)
@@ -16,3 +16,4 @@
   * [技巧方法](https://www.cnblogs.com/wanghai0666/category/1020759.html)
   * [数学思想](https://www.cnblogs.com/wanghai0666/category/1023201.html)
   * [能力意识](https://www.cnblogs.com/wanghai0666/category/1023203.html)
+
