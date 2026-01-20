@@ -72,4 +72,33 @@
 
 *  [效率工具类软件分类解析 | To teacher](https://www.cnblogs.com/wanghai0666/p/18475549)
 
+*  [可视化软件 JsxGraph  探索 | 技术储备](https://www.cnblogs.com/wanghai0666/p/19381942)
 
+*  [JSXGraph 支持绘制的数学图表](https://www.cnblogs.com/wanghai0666/p/19407899)
+
+*  [曲线的参数方程输入法 | Desmos 玩法系列01](https://www.cnblogs.com/wanghai0666/p/19370476)
+
+*  [曲线的极坐标方程输入法 | Desmos 玩法系列 02](https://www.cnblogs.com/wanghai0666/p/19375266)
+
+*  [听听函数的声音 | Desmos 课件制作](https://www.cnblogs.com/wanghai0666/p/18968824)
+
+*  [函数图像的旋转 | 利用 Desmos 制作](https://www.cnblogs.com/wanghai0666/p/18950700)
+
+*  [函数图象的反射 | 利用 Desmos 制作](https://www.cnblogs.com/wanghai0666/p/18952369)
+
+*  [分段函数的画法 | 多个软件](https://www.cnblogs.com/wanghai0666/p/18946807)
+
+
+*  [Iframe 框架的全屏+画笔代码 | 技术储备](https://www.cnblogs.com/wanghai0666/p/19393587)
+
+*  [DIV 框架全屏功能 | 技术储备](https://www.cnblogs.com/wanghai0666/p/19390018)
+
+*  [在线待办事项 | 办公工具类](https://www.cnblogs.com/wanghai0666/p/19176405)
+
+*  [留言板](https://www.cnblogs.com/wanghai0666/p/18830590/message_board)
+
+*  [TexSmart 文档处理器](https://www.cnblogs.com/wanghai0666/p/19149479)
+
+*  [Markmap 格式思维导图测试 | 技术储备](https://www.cnblogs.com/wanghai0666/p/19229103)
+
+*  [将 AI 答案转化为 Word 文件](https://www.cnblogs.com/wanghai0666/p/18884866/ai-to-word-mathtype)
