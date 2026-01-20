@@ -88,6 +88,31 @@
 
 *  [分段函数的画法 | 多个软件](https://www.cnblogs.com/wanghai0666/p/18946807)
 
+*  [高一化学二轮复习思维导图 V01](https://www.cnblogs.com/wanghai0666/p/19450577)
+
+*  [化学方程式的编辑](https://www.cnblogs.com/wanghai0666/p/19432127)
+
+*  [AI 在静雅斋中的使用角度梳理](https://www.cnblogs.com/wanghai0666/p/19400115)
+
+*  [智谱智能云电脑 | AutoGLM Agent](https://www.cnblogs.com/wanghai0666/p/19049335)
+
+*  [Jenius.cn 通用多智能体 AI Agent](https://www.cnblogs.com/wanghai0666/p/18931190)
+
+*  [学习数学刷教科书上的题有没有用？| 知乎问答](https://www.cnblogs.com/wanghai0666/p/19039547)
+
+*  [初中数学和高中数学关系大吗 | 知乎问答](https://www.cnblogs.com/wanghai0666/p/19037828)
+
+*  [健康锻炼打卡](https://www.cnblogs.com/wanghai0666/p/19129997/daily-health-training-report)
+
+*  [知乎提现记录单](https://www.cnblogs.com/wanghai0666/p/18925514)
+
+*  [无限+迭代+数学+颜色](https://www.cnblogs.com/wanghai0666/p/19408211)
+
+*  [曲线的近似长度](https://www.cnblogs.com/wanghai0666/p/19405692)
+
+*  [圆面积公式的图形推导](https://www.cnblogs.com/wanghai0666/p/19387812)
+
+*  [最大公约数最小公倍数与周期](https://www.cnblogs.com/wanghai0666/p/19005027)
 
 *  [Iframe 框架的全屏+画笔代码 | 技术储备](https://www.cnblogs.com/wanghai0666/p/19393587)
 
