@@ -31,16 +31,6 @@
 </head>   
 <body>
 <div id="main" style="opacity:1;transition:opacity 0.3s;">Loading...，请您稍候，精彩马上呈现</div>
-<script>
-// Docsify渲染完成后隐藏loading
-window.$docsify = {
-  ready() {
-    const app = document.getElementById('main');
-    app.style.opacity = '0';
-    setTimeout(()=>app.innerHTML='', 300);
-  }
-}
-</script>
 
   <!-- docsify-edit-on-github -->
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
@@ -51,7 +41,12 @@ window.$docsify = {
       repo: 'https://github.com/wanghai0666/docsify-CnBlogs',
       loadNavbar: true,//顶部导航
       homepage: 'README.md',
-      el: '#main',       
+      el: '#main',  
+      ready() {
+    const app = document.getElementById('main');
+    app.style.opacity = '0';
+    setTimeout(()=>app.innerHTML='', 300);
+  },
       coverpage: true,
       onlyCover: true,
       topMargin: 10,
