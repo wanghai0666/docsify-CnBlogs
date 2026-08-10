@@ -22,14 +22,14 @@ a:active  {color:yellow;}
 </head>
 <body>
 <div id="app">Loading...，请您稍候，精彩马上呈现</div>
+
 <script>
 window.$docsify = {
 name: '静雅斋数学',
 logo:'/_media/992978-20210118214725059-1705326463.png',
 repo: 'https://github.com/wanghai0666/docsify-CnBlogs',
 loadNavbar: true,
-homepage: 'README.md',
-el:'#main'
+homepage: null,
 coverpage: true,
 onlyCover: true,
 topMargin: 10,
@@ -41,7 +41,7 @@ subMaxLevel: 3,
 mergeNavbar: true,
 alias: {
   '/.*/_sidebar.md': '/_sidebar.md',
-  '/': '/README.md'
+  '/home': '/README.md'
 },
 count:{
 countable:true,
@@ -80,29 +80,20 @@ return html + footer;
 }
 </script>
 
-<!-- 顺序规则：先主脚本 docsify.min.js，再依次加载插件 -->
 <script src="https://cdn.jsdelivr.net/npm/docsify@4.12.2/lib/docsify.min.js"></script>
-
-<!-- 编辑github插件 -->
 <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
-<!-- 侧边栏折叠 -->
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-<!-- 搜索 -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/plugins/search.min.js"></script>
-<!-- 代码复制 -->
 <script src="//unpkg.com/docsify-copy-code"></script>
-<!-- 图片缩放 -->
 <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-<!-- 字数统计 -->
 <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-<!-- 分页 -->
 <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-<!-- emoji -->
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-<!-- 代码高亮java -->
 <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+
 <script src="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.js"></script>
+
 <script>
 document.addEventListener('DOMContentLoaded', ()=>{
 document.querySelectorAll('#app img').forEach(img=>{
@@ -112,8 +103,7 @@ wrap.appendChild(img);
 })
 })
 </script>
-<script>var postBodyLinks = document.querySelectorAll("div#cnblogs_post_body.blogpost-body.cnblogs-markdown a[href^='http']");
-for (var i=0; i<postBodyLinks.length; i++){postBodyLinks[i].setAttribute('target', '_blank')    }</script>
+
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
 <script>
