@@ -31,7 +31,7 @@
 </head>   
 <body>
    
-    <div data-app id="main">Loading...，请您稍候，精彩马上呈现</div>
+  <div data-app id="main">Loading...，请您稍候，精彩马上呈现</div>
   <!-- docsify-edit-on-github -->
   <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
@@ -42,6 +42,11 @@
       loadNavbar: true,//顶部导航
       homepage: 'README.md',
       el: '#main',
+        ready() {
+    const app = document.getElementById('main');
+    app.style.opacity = '0';
+    setTimeout(()=>app.innerHTML='', 300);
+  },
       coverpage: true,
       onlyCover: true,
       topMargin: 10,
@@ -55,7 +60,7 @@
       alias: { // 定义路由别名，可以更自由的定义路由规则。 支持正则
         '/.*/_sidebar.md': '/_sidebar.md'//防止意外回退
       },
-     Valine: {   //Valine 无后端评论系统
+      Valine: {   //Valine 无后端评论系统
         appId:'xtWvKxPCKCryBtxnu2UJDAQQ-gzGzoHsz',
         appKey:'qeYz7ccZCry5eWrhHk8kQHX3',
      },
