@@ -1,125 +1,127 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
-  <meta charset="UTF-8">
-  <title>静雅斋数学|使用目录</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport"
-  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/themes/vue.min.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
-  <link href="https://cdn.bootcss.com/KaTeX/0.10.0/katex.min.css" rel="stylesheet">    
+<meta charset="UTF-8">
+<title>静雅斋数学|使用目录</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="静雅斋数学知识库">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/themes/vue.min.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+<link href="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.9/katex.min.css" rel="stylesheet">
 <style>
-  a {
-  text-decoration:none;
-  font-size:16px;
-  }
-  a:link    {color:green;}
-  a:visited {color:grey;}
-  a:hover   {color:red;}
-  a:active  {color:yellow;}  
-  :root {
-    /* Reduce the font size */
-    --base-font-size: 16px;   
-  }
-  .app-name-link > img{
-      width: 65%;
-    }
-</style>  
-</head>   
+a {text-decoration:none;font-size:16px;}
+a:link    {color:green;}
+a:visited {color:grey;}
+a:hover   {color:red;}
+a:active  {color:yellow;}
+:root {--base-font-size: 16px;}
+.app-name-link > img{width: 65%;}
+</style>
+</head>
 <body>
-  <!-- docsify-edit-on-github -->
-  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
-  <div>Loading...，请您稍候，精彩马上呈现</div>
-  <script>
-    window.$docsify = {
-      name: '静雅斋数学',//侧边栏标题
-      logo:'/_media/992978-20210118214725059-1705326463.png',
-      repo: 'https://github.com/wanghai0666/docsify-CnBlogs',
-      loadNavbar: true,//顶部导航
-      homepage: 'README.md',
-      el: '#main',  
-      coverpage: true,
-      onlyCover: true,
-      topMargin: 10,
-      loadSidebar: true,
-      sidebarDisplayLevel: 2,
-      auto2top: true, //切换页面后是否自动跳转到页面顶部         
-      loadSidebar: true, // 加载自定义侧边栏
-      maxLevel: 4, // 默认情况下会抓取文档中所有标题渲染成目录，可配置最大支持渲染的标题层级。
-      subMaxLevel: 3, // 生成目录的最大层级
-      mergeNavbar: true, // 小屏设备下合并导航栏到侧边栏
-      alias: { // 定义路由别名，可以更自由的定义路由规则。 支持正则
-        '/.*/_sidebar.md': '/_sidebar.md'//防止意外回退
-      },
-      Valine: {   //Valine 无后端评论系统
-        appId:'xtWvKxPCKCryBtxnu2UJDAQQ-gzGzoHsz',
-        appKey:'qeYz7ccZCry5eWrhHk8kQHX3',
-     },
-     count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'chinese'
-      },
-       //全文搜索
-      search: { 
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-        paths: 'auto',
-        placeholder: '用关键词搜索...',
-        noData: '找不到结果',
-        // 搜索标题的最大层级, 1 - 6
-        depth: 4,
-      },
-     pagination: {
-        previousText: '上一篇',
-        nextText: '下一篇',
-        crossChapter: true,
-        crossChapterText: true,
-      },      
-      plugins: [
-        EditOnGithubPlugin.create('https://github.com/wanghai0666/docsify-CnBlogs/blob/master/'),
-        function(hook) {
-        var footer = [
-        '<hr/>',
-        '<footer>',
-        '<span><a href="https://github.com/wanghai0666">静雅斋数学     Made by WangHai  </a>  &copy; 2016 - 2026 .</span><br/>',
-        '<span>Published  with  <a href="https://github.com/docsifyjs/docsify" target="_blank"> docsify </a>.</span>',
-        '</footer>'
-      ].join('');
-      hook.afterEach(function(html) {
-        return html + footer;
-      });
-    },      
-      ],  
-      }    
-  </script>
-  <!-- CDN files for docsify-katex -->
-    <script src="https://cdn.bootcss.com/KaTeX/0.10.0/katex.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS_CHTML"></script>
-    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
-    <script src=https://cdn.jsdelivr.net/npm/docsify@4.12.2/lib/docsify.min.js></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.js"></script>
-   <!--Valine无后端评论系统
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
-    <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>  --> 
-  <!--Java代码高亮-->
-  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
-  <!--全文搜索,直接用官方提供的无法生效-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <!-- 复制到剪贴板 -->
-  <script src="//unpkg.com/docsify-copy-code"></script>
-  <!-- 图片缩放 -->
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
-  <!-- 字数统计 -->
-  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script type="text/javascript">$('img').wrap('<center></center>');</script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-  <script>var postBodyLinks = document.querySelectorAll("div#cnblogs_post_body.blogpost-body.cnblogs-markdown a[href^='http']");
-for (var i=0; i<postBodyLinks.length; i++){postBodyLinks[i].setAttribute('target', '_blank')    }</script>  
+<div id="app">Loading...，请您稍候，精彩马上呈现</div>
+<script>
+window.$docsify = {
+name: '静雅斋数学',
+logo:'/_media/992978-20210118214725059-1705326463.png',
+repo: 'https://github.com/wanghai0666/docsify-CnBlogs',
+loadNavbar: true,
+homepage: 'README.md',
+// 删掉错误 el:'#main'
+coverpage: true,
+onlyCover: true,
+topMargin: 10,
+loadSidebar: true,
+sidebarDisplayLevel: 2,
+auto2top: true,
+maxLevel: 4,
+subMaxLevel: 3,
+mergeNavbar: true,
+alias: {'/.*/_sidebar.md': '/_sidebar.md'},
+// Valine 移出根配置，改用插件配置
+count:{
+countable:true,
+fontsize:'0.9em',
+color:'rgb(90,90,90)',
+language:'chinese'
+},
+search: {
+maxAge: 86400000,
+paths: 'auto',
+placeholder: '用关键词搜索...',
+noData: '找不到结果',
+depth: 4,
+},
+pagination: {
+previousText: '上一篇',
+nextText: '下一篇',
+crossChapter: true,
+crossChapterText: true,
+},
+plugins: [
+EditOnGithubPlugin.create('https://github.com/wanghai0666/docsify-CnBlogs/blob/master/'),
+function(hook) {
+var footer = [
+'<hr/>',
+'<footer style="padding:1rem;text-align:center;font-size:14px">',
+'<span><a href="https://github.com/wanghai0666">静雅斋数学     Made by WangHai  </a>  &copy; 2016 - 2026 .</span><br/>',
+'<span>Published  with  <a href="https://github.com/docsifyjs/docsify" target="_blank"> docsify </a>.</span>',
+'</footer>'
+].join('');
+hook.afterEach(function(html) {
+return html + footer;
+});
+},
+],
+}
+</script>
+
+<!-- 顺序规则：先主脚本 docsify.min.js，再依次加载插件 -->
+<script src="https://cdn.jsdelivr.net/npm/docsify@4.12.2/lib/docsify.min.js"></script>
+
+<!-- 编辑github插件 -->
+<script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+<!-- 侧边栏折叠 -->
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<!-- 搜索 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/plugins/search.min.js"></script>
+<!-- 代码复制 -->
+<script src="//unpkg.com/docsify-copy-code"></script>
+<!-- 图片缩放 -->
+<script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+<!-- 字数统计 -->
+<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+<!-- 分页 -->
+<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<!-- emoji -->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<!-- 代码高亮java -->
+<script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', ()=>{
+document.querySelectorAll('#app img').forEach(img=>{
+const wrap = document.createElement('center');
+img.parentNode.insertBefore(wrap, img);
+wrap.appendChild(img);
+})
+})
+</script>
+<script>var postBodyLinks = document.querySelectorAll("div#cnblogs_post_body.blogpost-body.cnblogs-markdown a[href^='http']");
+for (var i=0; i<postBodyLinks.length; i++){postBodyLinks[i].setAttribute('target', '_blank')    }</script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
+<script>
+$docsify.plugins = [].concat($docsify.plugins, [
+ValinePlugin({
+appId:'xtWvKxPCKCryBtxnu2UJDAQQ-gzGzoHsz',
+appKey:'qeYz7ccZCry5eWrhHk8kQHX3'
+})
+])
+</script>
+
 </body>
 </html>
