@@ -27,6 +27,10 @@
   .app-name-link > img{
       width: 65%;
     }
+body:not(.loading) #main {
+  color: transparent !important;
+  font-size: 0 !important;
+}
 </style>  
 </head>   
 <body>
@@ -41,12 +45,7 @@
       repo: 'https://github.com/wanghai0666/docsify-CnBlogs',
       loadNavbar: true,//顶部导航
       homepage: 'README.md',
-      el: '#main',
-        ready() {
-    const app = document.getElementById('main');
-    app.style.opacity = '0';
-    setTimeout(()=>app.innerHTML='', 300);
-  },
+      el: '#main',       
       coverpage: true,
       onlyCover: true,
       topMargin: 10,
