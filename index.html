@@ -5,36 +5,28 @@
   <title>静雅斋数学|使用目录</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
-  <meta name="viewport"
-  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4.13.1/themes/vue.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
 <style>
-  a {
-    text-decoration:none;
-    font-size:16px;
-  }
+  a { text-decoration:none; font-size:16px; }
   a:link    {color:green;}
   a:visited {color:grey;}
   a:hover   {color:red;}
   a:active  {color:yellow;}
-  :root {
-    --base-font-size: 16px;
-  }
-  .app-name-link > img {
-    width: 65%;
-  }
+  :root { --base-font-size: 16px; }
+  .app-name-link > img { width: 65%; }
 </style>
 </head>
 <body>
 <div id="app">Loading...，请您稍候，精彩马上呈现</div>
 
-  <!-- 1. 先加载 EditOnGithubPlugin（配置中会用到） -->
+  <!-- 1. EditOnGithubPlugin（必须在配置前加载） -->
   <script src="https://unpkg.com/docsify-edit-on-github@1.0.4/index.js"></script>
-  
-  <!-- 2. 配置 window.$docsify -->
+
+  <!-- 2. 配置 docsify -->
   <script>
     window.$docsify = {
       name: '静雅斋数学',
@@ -43,7 +35,7 @@
       loadNavbar: true,
       homepage: 'README.md',
       el: '#app',
-      coverpage: '/_coverpage.md',
+      coverpage: true,
       onlyCover: true,
       topMargin: 10,
       loadSidebar: true,
@@ -92,13 +84,10 @@
     }
   </script>
 
-  <!-- 3. 加载 KaTeX（独立库，不依赖 docsify） -->
-  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-  
-  <!-- 4. 加载 docsify 主库（必须在所有插件之前） -->
+  <!-- 3. docsify 主库（必须在所有插件之前） -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/docsify.min.js"></script>
 
-  <!-- 5. 加载 docsify 插件（必须在主库之后） -->
+  <!-- 4. docsify 插件（必须在主库之后） -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-java.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/search.min.js"></script>
@@ -107,7 +96,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/zoom-image.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-count@1.1.0/dist/countable.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2.10.0/dist/docsify-pagination.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/emoji.min.js"></script>
 
   <!-- 图片居中 -->
   <script>
