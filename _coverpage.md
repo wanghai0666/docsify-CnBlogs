@@ -8,4 +8,4 @@
 
 [博客园指南](https://www.cnblogs.com/wanghai0666/tag/%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/)
 [教学检测集](https://www.cnblogs.com/wanghai0666/tag/%E6%95%99%E5%AD%A6%E6%A3%80%E6%B5%8B/)
-[开始阅读](docs/A-1必修模块目录.md)
+[开始阅读](/_sidebar.md)
