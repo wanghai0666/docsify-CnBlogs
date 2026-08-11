@@ -23,10 +23,27 @@
 <body>
 <div id="app">Loading...，请您稍候，精彩马上呈现</div>
 
-  <!-- 1. EditOnGithubPlugin（必须在配置前加载） -->
-  <script src="https://unpkg.com/docsify-edit-on-github@1.0.4/index.js"></script>
+  <!-- 1. 内联 EditOnGithubPlugin（避免外部 CDN 失败） -->
+  <script>
+    (function() {
+      function EditOnGithubPlugin(repo) {
+        return function(hook, vm) {
+          hook.beforeEach(function(html) {
+            var url = repo + vm.route.file;
+            var editHtml = '[:memo: 编辑此页](' + url + ')\n\n';
+            return editHtml + html;
+          });
+        };
+      }
+      window.EditOnGithubPlugin = {
+        create: function(repo) {
+          return EditOnGithubPlugin(repo);
+        }
+      };
+    })();
+  </script>
 
-  <!-- 2. 配置 docsify -->
+  <!-- 2. 配置 $docsify -->
   <script>
     window.$docsify = {
       name: '静雅斋数学',
@@ -84,10 +101,10 @@
     }
   </script>
 
-  <!-- 3. docsify 主库（必须在所有插件之前） -->
+  <!-- 3. docsify 主库 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/docsify.min.js"></script>
 
-  <!-- 4. docsify 插件（必须在主库之后） -->
+  <!-- 4. 插件（必须在主库之后） -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-java.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/search.min.js"></script>
