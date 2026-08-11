@@ -30,8 +30,12 @@
 </head>
 <body>
 <div id="app">Loading...，请您稍候，精彩马上呈现</div>
-<script src="https://cdn.jsdelivr.net/npm/docsify-edit-on-github@1.0.4/index.min.js"></script>
-<script>
+
+  <!-- 1. 先加载 EditOnGithubPlugin（配置中会用到） -->
+  <script src="https://unpkg.com/docsify-edit-on-github@1.0.4/index.js"></script>
+  
+  <!-- 2. 配置 window.$docsify -->
+  <script>
     window.$docsify = {
       name: '静雅斋数学',
       logo:'/_media/992978-20210118214725059-1705326463.png',
@@ -88,28 +92,24 @@
     }
   </script>
 
-  <!-- KaTeX -->
+  <!-- 3. 加载 KaTeX（独立库，不依赖 docsify） -->
   <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-  <!-- docsify-katex -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.min.js"></script>
-  <!-- docsify -->
+  
+  <!-- 4. 加载 docsify 主库（必须在所有插件之前） -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/docsify.min.js"></script>
 
-  <!--Java代码高亮-->
+  <!-- 5. 加载 docsify 插件（必须在主库之后） -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-katex@2.0.2/dist/docsify-katex.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-java.min.js"></script>
-  <!--全文搜索-->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-  <!-- 复制到剪贴板 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2.1.1/dist/docsify-copy-code.min.js"></script>
-  <!-- 图片缩放 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/zoom-image.min.js"></script>
-  <!-- 字数统计 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-count@1.1.0/dist/countable.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2.10.0/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4.13.1/lib/plugins/emoji.min.js"></script>
 
-  <!-- 图片居中：用原生 JS 替代 jQuery -->
+  <!-- 图片居中 -->
   <script>
     window.addEventListener('DOMContentLoaded', function() {
       var imgs = document.querySelectorAll('img');
